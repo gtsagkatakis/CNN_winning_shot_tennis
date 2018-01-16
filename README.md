@@ -5,8 +5,8 @@ Code for automated detection of winning shots in broacasted games.
 ## Depedencies
 
 * Numpy
-* Keras 
-* Tensorflow backend
+* Keras 2.0.8
+* Tensorflow 1.1.0
 
 
 ## Dataset
