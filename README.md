@@ -11,7 +11,7 @@ Code for automated detection of winning shots in broacasted tennis games.
 
 ## Dataset
 
-Download dataset from [Google drive](https://drive.google.com/open?id=1GNoIehTfUXt1hO3BGUNWw2PYagxUsxJI)
+Download dataset from [Dropbox](https://www.dropbox.com/sh/78j0f2vs0ijzejv/AADnb1wOn5P7KUsjjxblWDTaa?dl=0)
 
 ## Acks
 
